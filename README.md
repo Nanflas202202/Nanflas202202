@@ -8,9 +8,9 @@ NC2S, 一个初中生组成的工作室, 主要由Yue Jianya担任开发。我�
 
 ## 总览 | Overview
 
-![Errorsia's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=buefy&username=Nanflas202202&count_private=true&show_icons=true&include_all_commits=true#pic_left)
+![NC2S's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=buefy&username=Nanflas202202&count_private=true&show_icons=true&include_all_commits=true#pic_left)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanflas202202&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-![Errorsia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nanflas202202&theme=buefy&hide_border=false)
+![NC2S's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nanflas202202&theme=buefy&hide_border=false)
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ Markup Languages:
 
 Frameworks:
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)![Win31API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)! [Win31API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 OS:
 
@@ -36,7 +36,7 @@ OS:
 
 Embedded:
 
-![Nothing](https://img.shields.io/badge/404-white-Error-blue))
+![Nothing](https://img.shields.io/badge/404-Error-blue))
 
 Others:
 
@@ -50,7 +50,7 @@ Others:
 
 ## 我们的合作伙伴 | Our partners
 
-- [Errorsia Studio](https://github.com/Errorsia) Her/Her [Website↗](https://errorsia.com)
+- [Errorsia Studio](https://github.com/Errorsia) She/Her [Website↗](https://errorsia.com)
 
 ## 我们的项目组 | Our organization
 - [Errorsia Studio](https://github.com/EYStudio)
