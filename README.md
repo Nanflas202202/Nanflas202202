@@ -28,7 +28,7 @@ Markup Languages:
 
 Frameworks:
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)! [Win31API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)! [Win32API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 OS:
 
@@ -53,7 +53,7 @@ Others:
 - [Errorsia Studio](https://github.com/Errorsia) She/Her [Website↗](https://errorsia.com)
 
 ## 我们的项目组 | Our organization
-- [Errorsia Studio](https://github.com/EYStudio)
+- [Errorsia Yusulif Studio](https://github.com/EYStudio)
 
 ---
 # 致谢
