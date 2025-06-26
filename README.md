@@ -1,3 +1,11 @@
+# 欢迎来到Nanflas CS2B Studio的主页！
+
+---
+
+本文件修改自[Errorsia](https://github.com/Errorsia/Errorsia/blob/main/README.md)的主页
+
+---
+
 ## 你是第![Number of Visitors](https://count.kjchmc.cn/get/@Nanflas202202?theme=rule34)位访客
 
 ---
