@@ -17,6 +17,7 @@ NC2S, 一个初中生组成的工作室, 主要由Yue Jianya担任开发。我�
 ## 总览 | Overview
 
 ![NC2S's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=buefy&username=Nanflas202202&count_private=true&show_icons=true&include_all_commits=true#pic_left)
+![NC2S's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nanflas202202&layout=compact&show_icons=true&theme=ocean_dark&hide_border=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanflas202202&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 ![NC2S's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nanflas202202&theme=buefy&hide_border=false)
 
@@ -44,7 +45,7 @@ OS:
 
 Embedded:
 
-![Nothing](https://img.shields.io/badge/404-Error-blue))
+![Nothing](https://img.shields.io/badge/404-Error-blue)
 
 Others:
 
