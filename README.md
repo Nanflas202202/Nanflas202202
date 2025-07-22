@@ -7,7 +7,7 @@
 ---
 
 <!-- 这网站证书过期了→ ## 你是第![Number of Visitors](https://count.kjchmc.cn/get/@Nanflas202202?theme=rule34)位访客 -->
-## 你是第![Number of Visitors](https://count.kjchmc.cn/get/@Nanflas202202?theme=rule34)位访客
+## 你是第![Number of Visitors](https://count.getloli.com/get/@Nanflas202202?theme=rule34)位访客
 
 ---
 
