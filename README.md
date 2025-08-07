@@ -26,7 +26,7 @@ NC2S, 一个高中生组成的工作室, 主要由TsukiKenga担任开发。我�
 
 Programming Languages:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) !
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) 
 
 Stylesheet:
 
